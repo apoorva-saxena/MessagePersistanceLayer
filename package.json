@@ -18,7 +18,6 @@
   "homepage": "https://github.com/apsaxena24/MessagePersistanceLayer#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
-    "express": "^4.15.4",
-    "mongoose": "^4.11.7"
+    "express": "^4.15.4"
   }
 }
